@@ -2706,27 +2706,51 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #4e2a84;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #836eaa;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #B6acd1;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #e4e0ee;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #0f5d82;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #0d445f;
+			}
+
+			.tiles article.style7 > .image:before {
+				background-color: #b6babf;
+			}
+
+			.tiles article.style8 > .image:before {
+				background-color: #87a8b7;
+			}
+
+			.tiles article.style9 > .image:before {
+				background-color: #78866b;
+			}
+
+			.tiles article.style10 > .image:before {
+				background-color: #a9ba9d;
+			}
+
+			.tiles article.style11 > .image:before {
+				background-color: #d0d9cd;
+			}			
+
+			.tiles article.style12 > .image:before {
+				background-color: #b2beb5;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
